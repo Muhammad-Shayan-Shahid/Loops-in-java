@@ -2,7 +2,8 @@
 This project is a loop-based Java practice repository that helps you strengthen your core programming logic using for, while, and do-while loops.
 
 🔷 ***Key Features***
-🔁 Loop Types Covered
+
+🔁 **Loop Types Covered**
 
 for loop
 

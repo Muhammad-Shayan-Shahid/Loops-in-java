@@ -1,77 +1,59 @@
 # 📖 ***About This Project***
 
-This project is a **recursion-based Java practice repository** designed to strengthen your understanding of **recursive thinking and problem-solving**. It contains a wide variety of problems focused on breaking down logic using self-calling functions.
+This project is a **loop-based Java practice repository** that helps strengthen your core programming logic using `for`, `while`, and `do-while` loops.  
+It covers common loop problems, pattern printing, and logic-building exercises useful for exams and interviews.
 
 ---
 
 ## 🔷 ***Key Features***
 
-### 🔁 **Recursion Topics Covered**
+### 🔁 **Loop Types Covered**
+- `for` loop  
+- `while` loop  
+- `do-while` loop  
 
-- Basic recursion structure  
-- Recursion with return values  
-- Tail vs head recursion  
-- Multiple recursive calls  
+### ✨ **Pattern Printing**
+- ⭐ Star patterns  
+- 🔢 Number pyramids  
+- 📐 Right-angle triangles  
 
----
+### 🚦 **Control Flow Mastery**
+- Use of `break` and `continue`  
+- Skipping or terminating iterations based on conditions  
 
-### ✨ ***Pattern & Problem Solving***
+### 🧠 **Logic-Building Challenges**
+- 🔁 Factorial calculation  
+- 🔄 Reverse number  
+- 🔍 Palindrome check  
+- 🧮 Fibonacci series  
+- 🔎 Prime number detection  
 
-- Factorial using recursion  
-- Fibonacci series  
-- Sum of digits  
-- Power of a number  
-- Recursively print numbers in order/reverse  
+### 📁 **Organized Folder Structure**
+- Each file focuses on a specific concept  
+- Categorized by loop type and difficulty  
+- Ideal for revision and practice  
 
----
-
-### 🚦 ***Control Flow with Recursion***
-
-- Recursive termination conditions  
-- Base and recursive cases  
-- Use of if-else to manage stack flow  
-
----
-
-### 🧠 ***Logic-Building Challenges***
-
-- Palindrome check  
-- Reverse number  
-- Greatest common divisor (GCD)  
-- Binary search using recursion  
-- Print subsets (powerset)  
-
----
-
-### 📁 ***Organized Folder Structure***
-
-- 📂 Each file focuses on a single problem  
-- 📌 Clear naming conventions  
-- ✅ Beginner to intermediate level difficulty  
-
----
-
-### 📘 ***Clean Code***
-
+### 📘 **Clean Code**
 - ✅ Well-commented  
-- 🧩 Easy to understand  
-- 🎯 Follows best practices  
+- 📄 Easy to understand  
+- 🧹 Follows Java best practices  
 
 ---
 
 ## ✅ ***Ideal For***
 
-- 🧑‍💻 Beginners learning recursion in Java  
-- 🧪 Students preparing for coding tests  
-- 💼 Interview prep with recursion patterns  
-- 🎯 Anyone aiming to sharpen recursive logic  
+- 🧑‍💻 Beginners learning Java loops  
+- 🧪 Students practicing for exams  
+- 💼 Interview preparation  
+- 🎯 Anyone aiming to master loop-based logic  
 
 ---
 
-## 👤 Author
+## 🧑‍💻 **Author** 
 
-**Shayan Shahid**  
+**Muhammad Shayan Shahid**  
 📍 Java & Front-End Learner  
 📧 [msshahid23052006@gmail.com](mailto:msshahid23052006@gmail.com)  
+🔗 [Connect on LinkedIn](https://www.linkedin.com)
 
 Feel free to connect or reach out for collaboration or feedback! 🤝

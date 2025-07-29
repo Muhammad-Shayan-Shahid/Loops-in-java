@@ -1,62 +1,77 @@
-📖 ***About This Project***
-This project is a loop-based Java practice repository that helps you strengthen your core programming logic using for, while, and do-while loops.
+# 📖 ***About This Project***
 
-🔷 ***Key Features***
+This project is a **recursion-based Java practice repository** designed to strengthen your understanding of **recursive thinking and problem-solving**. It contains a wide variety of problems focused on breaking down logic using self-calling functions.
 
-🔁 **Loop Types Covered**
+---
 
-for loop
+## 🔷 ***Key Features***
 
-while loop
+### 🔁 **Recursion Topics Covered**
 
-do-while loop
+- Basic recursion structure  
+- Recursion with return values  
+- Tail vs head recursion  
+- Multiple recursive calls  
 
-✨ ***Pattern Printing***
+---
 
-Star patterns
+### ✨ ***Pattern & Problem Solving***
 
-Number pyramids
+- Factorial using recursion  
+- Fibonacci series  
+- Sum of digits  
+- Power of a number  
+- Recursively print numbers in order/reverse  
 
-Right-angle triangles
+---
 
-🚦 Control Flow Mastery
+### 🚦 ***Control Flow with Recursion***
 
-Use of break and continue
+- Recursive termination conditions  
+- Base and recursive cases  
+- Use of if-else to manage stack flow  
 
-Skipping and stopping loops based on conditions
+---
 
-🧠 ***Logic-Building Challenges***
+### 🧠 ***Logic-Building Challenges***
 
-Factorial calculation
+- Palindrome check  
+- Reverse number  
+- Greatest common divisor (GCD)  
+- Binary search using recursion  
+- Print subsets (powerset)  
 
-Reverse number
+---
 
-Palindrome check
+### 📁 ***Organized Folder Structure***
 
-Fibonacci series
+- 📂 Each file focuses on a single problem  
+- 📌 Clear naming conventions  
+- ✅ Beginner to intermediate level difficulty  
 
-Prime number detection
+---
 
-📁 ***Organized Folder Structure***
+### 📘 ***Clean Code***
 
-Each file focuses on a specific topic
+- ✅ Well-commented  
+- 🧩 Easy to understand  
+- 🎯 Follows best practices  
 
-Beginner to intermediate level difficulty
+---
 
-📘 ***Clean Code***
+## ✅ ***Ideal For***
 
-Well-commented
+- 🧑‍💻 Beginners learning recursion in Java  
+- 🧪 Students preparing for coding tests  
+- 💼 Interview prep with recursion patterns  
+- 🎯 Anyone aiming to sharpen recursive logic  
 
-Easy to understand
+---
 
-Follows best practices
+## 👤 Author
 
-✅ ***Ideal For***
+**Shayan Shahid**  
+📍 Java & Front-End Learner  
+📧 [msshahid23052006@gmail.com](mailto:msshahid23052006@gmail.com)  
 
-🧑‍💻 Beginners learning Java loops
-
-🧪 Students practicing for exams
-
-💼 Interview preparation
-
-🎯 Anyone aiming to improve loop-based logic
+Feel free to connect or reach out for collaboration or feedback! 🤝

@@ -54,6 +54,5 @@ It covers common loop problems, pattern printing, and logic-building exercises u
 **Muhammad Shayan Shahid**  
 📍 Java & Front-End Learner  
 📧 [msshahid23052006@gmail.com](mailto:msshahid23052006@gmail.com)  
-🔗 [Connect on LinkedIn](https://www.linkedin.com)
 
 Feel free to connect or reach out for collaboration or feedback! 🤝
